@@ -2,7 +2,7 @@
 
 # Task-1
 
-THE INDIAN BANK Sparks Foundation Internship Project: Basic Banking System A Web Application used to transfer money between multiple users Project contains 10 dummy users.
+THE STATE BANK Sparks Foundation Internship Project: Basic Banking System A Web Application used to transfer money between multiple users Project contains 10 dummy users.
 
 # Task assigned was ass follows:
 Create a simple dynamic website which in the following speces.
